@@ -1,7 +1,7 @@
 # 🏛️ Labyrinth Origins
 
 <p align="center">
-  <img src="imagenes/menu_principal.png" width="800">
+  <img src="capturas juego/ChatGPT Image 18 jun 2026, 12_24_31 a.m. (2).png" width="800">
 </p>
 
 ## 📖 Descripción
