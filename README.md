@@ -257,8 +257,7 @@ Cada nivel posee una temática diferente para ofrecer variedad visual durante la
 # 👨‍💻 Autor
 
 **Andrés Felipe Abril López**
-
-Proyecto desarrollado para la asignatura de Ingeniería de Sistemas.
+**Joan Sebastian Berbesi Burgos**
 
 ---
 
